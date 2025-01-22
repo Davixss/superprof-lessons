@@ -1,3 +1,11 @@
+/*
+    Codice fornito da Davide G. Allegra [www.davideallegra.it]
+    Superprof.it | Repository di esercizi di programmazione
+    -
+    Verifica se la stringa è composta da due sottostringhe uguali
+    Esempio: "ciaociao" contiene due sottostringhe uguali
+*/
+
 #include <stdio.h>
 #include <string.h>
 
